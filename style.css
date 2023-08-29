@@ -27,6 +27,9 @@ h1{
 .img3{
     width: 40px;
 }
+.img4{
+    width: 40px;
+}
 .navegacion div{
     margin: 0px;
     padding: 0px;
@@ -51,8 +54,26 @@ h1{
 .busqueda{
     display: flex;
     justify-content: space-around;
-    /*border: 2px solid brown;*/
-    border-radius: 10px;
+    border: 7px solid brown;
+    border-radius: 20px;
+}
+.busqueda span{
+    padding: .5rem;
+}
+.buscar{
+    padding: 1rem;
+    font-size: 18px;
+    margin: -.5rem;
+    margin-right: .6rem;
+    margin-left: .6rem;
+}
+.all{
+    background-color: whitesmoke;
+    color: black;
+    
+}
+.lupa{
+    background-color: bisque;
 }
 
 /*
